@@ -1,0 +1,15 @@
+[submodule "colmap"]
+	path = colmap
+	url = https://github.com/colmap/colmap.git
+[submodule "openMVS"]
+	path = openMVS
+	url = https://github.com/cdcseacave/openMVS.git
+[submodule "VCG"]
+	path = VCG
+	url = https://github.com/cdcseacave/VCG
+[submodule "vcglib"]
+	path = vcglib
+	url = https://github.com/cnr-isti-vclab/vcglib
+[submodule "cgal"]
+	path = cgal
+	url = https://github.com/CGAL/cgal.git
